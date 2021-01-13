@@ -3,7 +3,7 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  width: 30vw;
+  width: max-content;
   color: #f5f5ef;
   .order {
     background: #b69582;
@@ -18,7 +18,7 @@
   }
 
   .logo {
-    width: 300px;
+    width: 10em;
   }
   .year {
     width: 100%;
