@@ -1,6 +1,8 @@
 import "./home.scss";
 import MenuItem from "../menuItem/menuItem";
 import Logo from "../../assets/logo.png";
+import Year from "../../assets/date.png";
+
 const Home = () => {
   return (
     <div className="Home">

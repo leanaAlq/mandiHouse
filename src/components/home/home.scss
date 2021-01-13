@@ -1,27 +1,26 @@
 .Home {
-  min-height: 100vh;
-  background-color: #f5f5ef;
-  direction: rtl;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  width: 30vw;
   color: #f5f5ef;
-  padding: 2em;
-
   .order {
     background: #b69582;
     border: 0;
     padding: 1em;
+    width: 100%;
     border-radius: 0.5em;
     font-size: 1.7em;
-    width: 50vw;
     font-weight: bold;
     text-decoration: none;
     text-align: center;
   }
 
   .logo {
-    width: 50vw;
+    width: 300px;
+  }
+  .year {
+    width: 100%;
   }
 }
