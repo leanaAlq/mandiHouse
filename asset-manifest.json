@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/mandiHouse/static/css/main.1ba3fd5d.chunk.css",
-    "main.js": "/mandiHouse/static/js/main.2c7806dd.chunk.js",
-    "main.js.map": "/mandiHouse/static/js/main.2c7806dd.chunk.js.map",
+    "main.css": "/mandiHouse/static/css/main.ab331963.chunk.css",
+    "main.js": "/mandiHouse/static/js/main.e3f35950.chunk.js",
+    "main.js.map": "/mandiHouse/static/js/main.e3f35950.chunk.js.map",
     "runtime-main.js": "/mandiHouse/static/js/runtime-main.b738848d.js",
     "runtime-main.js.map": "/mandiHouse/static/js/runtime-main.b738848d.js.map",
     "static/js/2.486cddb6.chunk.js": "/mandiHouse/static/js/2.486cddb6.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.63cb8d79.chunk.js": "/mandiHouse/static/js/3.63cb8d79.chunk.js",
     "static/js/3.63cb8d79.chunk.js.map": "/mandiHouse/static/js/3.63cb8d79.chunk.js.map",
     "index.html": "/mandiHouse/index.html",
-    "static/css/main.1ba3fd5d.chunk.css.map": "/mandiHouse/static/css/main.1ba3fd5d.chunk.css.map",
+    "static/css/main.ab331963.chunk.css.map": "/mandiHouse/static/css/main.ab331963.chunk.css.map",
     "static/js/2.486cddb6.chunk.js.LICENSE.txt": "/mandiHouse/static/js/2.486cddb6.chunk.js.LICENSE.txt",
     "static/media/logo.5c09fc02.png": "/mandiHouse/static/media/logo.5c09fc02.png",
     "static/media/logo.6ce24c58.svg": "/mandiHouse/static/media/logo.6ce24c58.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.b738848d.js",
     "static/js/2.486cddb6.chunk.js",
-    "static/css/main.1ba3fd5d.chunk.css",
-    "static/js/main.2c7806dd.chunk.js"
+    "static/css/main.ab331963.chunk.css",
+    "static/js/main.e3f35950.chunk.js"
   ]
 }
