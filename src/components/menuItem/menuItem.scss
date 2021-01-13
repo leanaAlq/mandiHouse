@@ -1,0 +1,13 @@
+.MenuItem {
+  padding: 1em;
+  display: flex;
+  justify-content: space-around;
+  width: 100vw;
+  .preview {
+    filter: drop-shadow(2px 4px 8px #585858);
+  }
+  .info {
+    display: flex;
+    flex-direction: column;
+  }
+}

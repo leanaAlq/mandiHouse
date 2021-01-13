@@ -1,0 +1,24 @@
+.Home {
+  min-height: 100vh;
+  background-color: #f5f5ef;
+  direction: rtl;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #f5f5ef;
+
+  .order {
+    background: #b69582;
+    border: 0;
+    padding: 1em;
+    border-radius: 0.5em;
+    font-size: 1.7em;
+    width: 50vw;
+    font-weight: bold;
+  }
+
+  .logo {
+    width: 50vw;
+  }
+}
