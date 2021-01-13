@@ -7,6 +7,7 @@
   align-items: center;
   flex-direction: column;
   color: #f5f5ef;
+  padding: 2em;
 
   .order {
     background: #b69582;
@@ -16,6 +17,8 @@
     font-size: 1.7em;
     width: 50vw;
     font-weight: bold;
+    text-decoration: none;
+    text-align: center;
   }
 
   .logo {

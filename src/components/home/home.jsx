@@ -5,7 +5,9 @@ const Home = () => {
   return (
     <div className="Home">
       <img className="logo" src={Logo}></img>
-      <button className="order">اطلب الآن </button>
+      <a href="https://wa.me/966504403040" className="order">
+        اطلب الآن
+      </a>
     </div>
   );
 };
